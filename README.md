@@ -1,6 +1,6 @@
-#Task Board App
+Task Board App
 
-##Overview
+Overview
 This Task Board app helps you manage your tasks easily. You can add, move, and delete tasks across different sections.
 
 
