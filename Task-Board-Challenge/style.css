@@ -1,0 +1,90 @@
+
+body {
+  font-family: 'Open Sans', sans-serif;
+  background-color: #f8f9fa;
+  color: #000000;
+}
+
+.container {
+  margin-top: 20px;
+}
+
+.card-header {
+  background-color: #e8f4ff;
+}
+
+.lane {
+  min-height: 300px;
+}
+
+
+.task-card {
+  background-color: #ffffff;
+  border: 1px solid #ced4da;
+  margin-bottom: 10px;
+  border-radius: 5px;
+  padding: 10px;
+  cursor: move;
+}
+
+
+.btn-success {
+  background-color: #28a745;
+  border-color: #28a745;
+}
+
+.btn-success:hover {
+  background-color: #218838;
+  border-color: #1e7e34;
+}
+
+
+.modal-dialog {
+  max-width: 500px;
+}
+
+
+.header {
+  background-color: #343a40;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+.header h1 {
+  margin-bottom: 10px;
+}
+
+
+.footer {
+  background-color: #343a40;
+  color: #000000;
+  padding: 20px;
+  text-align: center;
+}
+
+
+.form-control {
+  margin-bottom: 10px;
+}
+
+
+.btn-primary {
+  background-color: #007bff;
+  border-color: #007bff;
+}
+
+.btn-primary:hover {
+  background-color: #0069d9;
+  border-color: #0062cc;
+}
+
+
+.delete-button {
+  color: #dc3545;
+  cursor: pointer;
+}
+
+.delete-button:hover {
+  color: #bd2130;
+}
